@@ -2,10 +2,20 @@
 
 namespace csharpconsole
 {
-    class Program
+    class Program : Employee
     {
         static void Main(string[] args)
         {
+            Employee emp = new Employee();
+            string fname, lname, email;
+            Console.WriteLine("Enter FirstName");
+            fname = Console.ReadLine();
+
+            Console.WriteLine("Enter LastName");
+            lname = Console.ReadLine();
+            email = emp.createEmail(fname.ToLower(),lname.ToLower());
+            Console.WriteLine("Employee generated email is {0}",email);
+
             CurrencyConverter currency = new CurrencyConverter();
             int selectedOption;
             int amount;
