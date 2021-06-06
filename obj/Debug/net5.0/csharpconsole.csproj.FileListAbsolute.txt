@@ -1,0 +1,16 @@
+C:\Users\Odafe PC\tennyson_project\csharpconsole\bin\Debug\net5.0\csharpconsole.exe
+C:\Users\Odafe PC\tennyson_project\csharpconsole\bin\Debug\net5.0\csharpconsole.deps.json
+C:\Users\Odafe PC\tennyson_project\csharpconsole\bin\Debug\net5.0\csharpconsole.runtimeconfig.json
+C:\Users\Odafe PC\tennyson_project\csharpconsole\bin\Debug\net5.0\csharpconsole.runtimeconfig.dev.json
+C:\Users\Odafe PC\tennyson_project\csharpconsole\bin\Debug\net5.0\csharpconsole.dll
+C:\Users\Odafe PC\tennyson_project\csharpconsole\bin\Debug\net5.0\ref\csharpconsole.dll
+C:\Users\Odafe PC\tennyson_project\csharpconsole\bin\Debug\net5.0\csharpconsole.pdb
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.csproj.AssemblyReference.cache
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.AssemblyInfoInputs.cache
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.AssemblyInfo.cs
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.csproj.CoreCompileInputs.cache
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.dll
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\ref\csharpconsole.dll
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.pdb
+C:\Users\Odafe PC\tennyson_project\csharpconsole\obj\Debug\net5.0\csharpconsole.genruntimeconfig.cache
