@@ -2,8 +2,13 @@
 
 namespace csharpconsole
 {
-    class Program : Employee
+    [MyTest("Tennyson")]
+    class Program : Employee, IFullname
     {
+        public void Name(string fname, string lname)
+        {
+            Console.WriteLine("{0} and {1}",fname,lname);
+        }
         static void Main(string[] args)
         {
             Employee emp = new Employee();
@@ -13,6 +18,8 @@ namespace csharpconsole
 
             Console.WriteLine("Enter LastName");
             lname = Console.ReadLine();
+
+            
             email = emp.createEmail(fname.ToLower(),lname.ToLower());
             Console.WriteLine("Employee generated email is {0}",email);
 
